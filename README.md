@@ -1,7 +1,9 @@
 ### Hello and welcome to my business profile
 
 💼 My main job is working at <a href="https://www.santogal.pt/paginas-de-marca/mercedes/">Mercedes ©</a>
+
 💼 In my free time , I'm currently working at <a href="https://skyplugins.com.br">SkyPlugins ©</a>
+
 💼 Also, Currently working at <a href="https://landwars.com.br">LandWars ©</a>
 
 <div>
