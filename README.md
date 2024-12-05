@@ -25,4 +25,4 @@
 ### Contact-me:
 
   <img align="left" alt="Outlook" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <string>tiagofranciscopatricio@outlook.pt</string>
+  <string>tiagofranciscopatricio@outlook.com</string>
